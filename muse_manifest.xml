@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Home/LuisAntonioNunezLopez.com" resolutions="1x,2x" timestamp="1528666056801">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Home.com" resolutions="1x,2x" timestamp="1528671739456">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="525503686" ref="index"/>
+    <file name="master_a-master.css" crc="151610536" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="269802036" ref="index"/>
-    <file name="index.css" crc="4267664535" ref="index"/>
-    <file name="nomq_index.css" crc="4114270501" ref="index"/>
+    <file name="index.css" crc="3824180699" ref="index"/>
+    <file name="nomq_index.css" crc="217777612" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="posterizar-1.psb" crc="511765588" seo="true" mt="1510509691000"/>
@@ -646,5 +646,5 @@
     <file name="avro-u14565-fr3.jpg" crc="419762709" ref="index"/>
     <file name="avro-u14565-fr_2x3.jpg" crc="4251095843" ref="index"/>
   </folder>
-  <file name="index.html" crc="178776294" seo="true" mt="1528665849322" redirect="true"/>
+  <file name="index.html" crc="125545423" seo="true" mt="1528671650827" redirect="true"/>
 </manifest>
